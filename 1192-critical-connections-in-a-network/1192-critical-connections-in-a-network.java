@@ -2,36 +2,33 @@ import java.util.*;
 
 class Solution {
 
+    ArrayList<Integer>[] adj;
+    int[] tin;
+    int[] low;
+    int[] vis;
+    List<List<Integer>> ans;
     int timer = 0;
 
-    private void dfs(int node, int parent,
-                     List<List<Integer>> adj,
-                     boolean[] visited,
-                     int[] tin,
-                     int[] low,
-                     List<List<Integer>> ans) {
+    private void dfs(int node, int parent) {
 
-        visited[node] = true;
-
+        vis[node] = 1;
         tin[node] = low[node] = timer++;
 
-        for (int neighbour : adj.get(node)) {
+        for (int neighbour : adj[node]) {
 
-            // Ignore the edge back to parent
+            // Ignore the parent edge
             if (neighbour == parent)
                 continue;
 
-            // Back Edge
-            if (visited[neighbour]) {
-
+            // Back edge
+            if (vis[neighbour] == 1) {
                 low[node] = Math.min(low[node], tin[neighbour]);
+            }
+            // Tree edge
+            else {
 
-            } else {
+                dfs(neighbour, node);
 
-                // Tree Edge
-                dfs(neighbour, node, adj, visited, tin, low, ans);
-
-                // Update lowest reachable time
                 low[node] = Math.min(low[node], low[neighbour]);
 
                 // Bridge found
@@ -44,10 +41,9 @@ class Solution {
 
     public List<List<Integer>> criticalConnections(int n, List<List<Integer>> connections) {
 
-        List<List<Integer>> adj = new ArrayList<>();
-
+        adj = new ArrayList[n];
         for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
+            adj[i] = new ArrayList<>();
         }
 
         // Build graph
@@ -55,20 +51,18 @@ class Solution {
             int u = edge.get(0);
             int v = edge.get(1);
 
-            adj.get(u).add(v);
-            adj.get(v).add(u);
+            adj[u].add(v);
+            adj[v].add(u);
         }
 
-        boolean[] visited = new boolean[n];
-        int[] tin = new int[n];
-        int[] low = new int[n];
+        tin = new int[n];
+        low = new int[n];
+        vis = new int[n];
+        ans = new ArrayList<>();
 
-        List<List<Integer>> ans = new ArrayList<>();
-
-        // Handle disconnected graph
         for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                dfs(i, -1, adj, visited, tin, low, ans);
+            if (vis[i] == 0) {
+                dfs(i, -1);
             }
         }
 
