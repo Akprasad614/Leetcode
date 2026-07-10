@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akprasad614/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akprasad614/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -13,11 +14,13 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akprasad614/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akprasad614/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akprasad614/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akprasad614/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/Akprasad614/Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akprasad614/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akprasad614/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +84,7 @@
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akprasad614/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/Akprasad614/Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
