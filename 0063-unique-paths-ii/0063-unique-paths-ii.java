@@ -1,48 +1,23 @@
-class Solution {
-    int[][] dp;
-    int countPath(int m,int n,int[][] obstacleGrid){
-        if(obstacleGrid[0][0] == 1){
-            return 0;
-        }
-        dp[0][0] = 1;
-        for(int i =0;i<m; i++){
-            for(int j=0;j<n;j++){
-                if(i==0 && j==0) continue;
-
-                if(obstacleGrid[i][j] == 1){
-                    dp[i][j] =0;
-                    continue;
-                }
-                int up = 0;
-                int left = 0;
-
-                if(i>0) up = dp[i-1][j];
-                if(j>0) left = dp[i][j-1];
-                dp[i][j] = left + up;
-            }
-        }
-        return dp[m-1][n-1];
-    }
-    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        int m = obstacleGrid.length;
-        int n = obstacleGrid[0].length;
-        dp = new int[m][n];
-        return countPath(m,n,obstacleGrid);
-    }
-}
-
 // class Solution {
-//     int[] prev;
+//     int[][] dp;
 //     int countPath(int m,int n,int[][] obstacleGrid){
-//         dp[0][0] = 1;
+//         if(obstacleGrid[0][0] == 1){
+//             return 0;
+//         }
+//      dp[0][0] = 1;
 //         for(int i =0;i<m; i++){
 //             for(int j=0;j<n;j++){
 //                 if(i==0 && j==0) continue;
+
+//                 if(obstacleGrid[i][j] == 1){
+//                     dp[i][j] =0;
+//                     continue;
+//                 }
 //                 int up = 0;
 //                 int left = 0;
 
-//                 if(i>0 && obstacleGrid[m][n] != 1) up = dp[i-1][j];
-//                 if(j>0 &&obstacleGrid[m][n] != 1) left = dp[i][j-1];
+//                 if(i>0) up = dp[i-1][j];
+//                 if(j>0) left = dp[i][j-1];
 //                 dp[i][j] = left + up;
 //             }
 //         }
@@ -51,10 +26,43 @@ class Solution {
 //     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
 //         int m = obstacleGrid.length;
 //         int n = obstacleGrid[0].length;
-//         dp = new int[n];
-//         return countPath(m-1,n-1,obstacleGrid);
+//         dp = new int[m][n];
+//         return countPath(m,n,obstacleGrid);
 //     }
 // }
+class Solution{
+    // space optimaztion
+    public int uniquePathsWithObstacles(int[][] obstacleGrid) { 
+        int m = obstacleGrid.length;
+        int n = obstacleGrid[0].length;
+        if(obstacleGrid[0][0] == 1){
+            return 0;
+        }
+
+        int[] prev = new int[n];
+        for(int i =0;i<m; i++){
+            int[] temp = new int[n];
+            for(int j=0;j<n;j++){
+                if(i==0 && j==0) {
+                    temp[j] = 1;
+                    continue;
+                }
+                if(obstacleGrid[i][j] == 1){
+                    temp[j] = 0;
+                    continue;
+                }
+                int up = 0;
+                int left = 0;
+
+                if(i>0) up = prev[j];
+                if(j>0) left = temp[j-1];
+                temp[j] = left + up;
+            }
+            prev = temp;
+        }
+        return prev[n-1];
+    }
+}
 
 
 // class Solution {
