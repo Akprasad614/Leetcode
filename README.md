@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Akprasad614/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Akprasad614/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Akprasad614/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Akprasad614/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Akprasad614/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Akprasad614/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Akprasad614/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Akprasad614/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0198-house-robber](https://github.com/Akprasad614/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Akprasad614/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -84,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Akprasad614/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Akprasad614/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0827-making-a-large-island](https://github.com/Akprasad614/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Akprasad614/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Biconnected Component
