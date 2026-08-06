@@ -8,6 +8,7 @@
 | [0063-unique-paths-ii](https://github.com/Akprasad614/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Akprasad614/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Akprasad614/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/Akprasad614/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Akprasad614/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Akprasad614/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akprasad614/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Akprasad614/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Akprasad614/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0120-triangle](https://github.com/Akprasad614/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Akprasad614/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Akprasad614/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
