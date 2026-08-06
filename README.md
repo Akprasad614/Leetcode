@@ -112,6 +112,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Akprasad614/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Akprasad614/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Akprasad614/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +125,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Akprasad614/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Akprasad614/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
