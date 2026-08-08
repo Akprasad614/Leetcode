@@ -11,7 +11,7 @@ class Solution {
             return dp[index][target];
         }
         if(nums[index] == target){
-            return true;
+            return dp[index][target] = true;
         }
         // take
         boolean take = false;
