@@ -38,6 +38,7 @@
 | [0198-house-robber](https://github.com/Akprasad614/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Akprasad614/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Akprasad614/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0827-making-a-large-island](https://github.com/Akprasad614/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akprasad614/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -86,6 +87,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Akprasad614/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +144,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Akprasad614/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
