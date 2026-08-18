@@ -11,6 +11,7 @@
 | [0120-triangle](https://github.com/Akprasad614/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Akprasad614/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Akprasad614/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/Akprasad614/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Akprasad614/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akprasad614/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akprasad614/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -37,6 +38,7 @@
 | [0120-triangle](https://github.com/Akprasad614/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Akprasad614/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Akprasad614/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/Akprasad614/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Akprasad614/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -69,6 +71,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Akprasad614/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0827-making-a-large-island](https://github.com/Akprasad614/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akprasad614/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -139,6 +142,7 @@
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Akprasad614/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Akprasad614/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
@@ -152,4 +156,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Akprasad614/Leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
