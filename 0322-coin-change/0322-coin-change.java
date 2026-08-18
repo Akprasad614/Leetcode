@@ -1,28 +1,56 @@
 class Solution {
-    int[][] dp;
+    int[] dp;
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-        dp = new int[n][amount+1];
+        dp = new int[amount+1];
         for(int target = 0;target<=amount;target++){
             if(target % coins[0] == 0){
-                dp[0][target] = target/coins[0];
+                dp[target] = target/coins[0];
             }
-            else dp[0][target] = (int)1e9;
+            else dp[target] = (int)1e9;
         }
         for(int i=1;i<n;i++){
+            int[] temp = new int[amount+1];
             for(int target=0;target<=amount;target++){
-                int notpick = dp[i-1][target];
+                int notpick = dp[target];
                 int pick = (int)1e9;
                 if(coins[i] <= target){
-                    pick = 1 + dp[i][target-coins[i]];
+                    pick = 1 + temp[target-coins[i]];
                 }
-                dp[i][target] = Math.min(pick,notpick);
+                temp[target] = Math.min(pick,notpick);
             }
+            dp = temp;
         }
-        int ans = dp[n-1][amount];
+        int ans = dp[amount];
         return ans >= 1e9 ? -1 : ans;
     }
 }
+
+// class Solution {
+//     int[][] dp;
+//     public int coinChange(int[] coins, int amount) {
+//         int n = coins.length;
+//         dp = new int[n][amount+1];
+//         for(int target = 0;target<=amount;target++){
+//             if(target % coins[0] == 0){
+//                 dp[0][target] = target/coins[0];
+//             }
+//             else dp[0][target] = (int)1e9;
+//         }
+//         for(int i=1;i<n;i++){
+//             for(int target=0;target<=amount;target++){
+//                 int notpick = dp[i-1][target];
+//                 int pick = (int)1e9;
+//                 if(coins[i] <= target){
+//                     pick = 1 + dp[i][target-coins[i]];
+//                 }
+//                 dp[i][target] = Math.min(pick,notpick);
+//             }
+//         }
+//         int ans = dp[n-1][amount];
+//         return ans >= 1e9 ? -1 : ans;
+//     }
+// }
 
 // class Solution {
 //     int[][] dp;
