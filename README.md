@@ -17,6 +17,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Akprasad614/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Akprasad614/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Akprasad614/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Akprasad614/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akprasad614/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akprasad614/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akprasad614/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -96,6 +97,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Akprasad614/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Akprasad614/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Akprasad614/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akprasad614/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -182,4 +184,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Akprasad614/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Akprasad614/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 <!---LeetCode Topics End-->
