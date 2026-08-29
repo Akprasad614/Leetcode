@@ -8,6 +8,7 @@
 | [0063-unique-paths-ii](https://github.com/Akprasad614/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Akprasad614/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Akprasad614/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Akprasad614/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Akprasad614/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Akprasad614/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Akprasad614/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -94,6 +95,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Akprasad614/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Akprasad614/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Akprasad614/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Akprasad614/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
