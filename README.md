@@ -4,6 +4,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Akprasad614/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/Akprasad614/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Akprasad614/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Akprasad614/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -95,6 +96,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Akprasad614/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Akprasad614/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Akprasad614/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Akprasad614/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -170,6 +172,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Akprasad614/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -189,4 +192,8 @@
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Akprasad614/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Akprasad614/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Akprasad614/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
