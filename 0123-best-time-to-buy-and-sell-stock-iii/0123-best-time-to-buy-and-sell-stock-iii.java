@@ -2,7 +2,6 @@
 
 class Solution {
     int[][][] dp;
-    int ctr = 0;
     int profit(int i,int status,int cap,int[] prices){
         if(i == prices.length || cap == 2){
             return 0;
@@ -14,7 +13,6 @@ class Solution {
             return dp[0][cap][i] = Math.max(-prices[i] + profit(i+1,1,cap,prices),0 + profit(i+1,0,cap,prices));
         }
         else{
-            ctr++;
             return dp[1][cap][i] = Math.max(prices[i] + profit(i+1,0,cap+1,prices),0 + profit(i+1,1,cap,prices));
         }
     }
