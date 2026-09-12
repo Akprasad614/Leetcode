@@ -25,6 +25,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Akprasad614/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Akprasad614/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Akprasad614/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akprasad614/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Akprasad614/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akprasad614/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akprasad614/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -62,6 +63,7 @@
 | [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/Akprasad614/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Akprasad614/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akprasad614/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0827-making-a-large-island](https://github.com/Akprasad614/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akprasad614/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -185,6 +187,7 @@
 | [0044-wildcard-matching](https://github.com/Akprasad614/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akprasad614/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akprasad614/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
