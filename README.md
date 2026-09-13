@@ -48,6 +48,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Akprasad614/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0063-unique-paths-ii](https://github.com/Akprasad614/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Akprasad614/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Akprasad614/Leetcode/tree/main/0120-triangle/) | Medium |
@@ -103,6 +104,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Akprasad614/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akprasad614/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## String
