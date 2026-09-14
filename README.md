@@ -29,6 +29,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Akprasad614/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akprasad614/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akprasad614/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Akprasad614/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akprasad614/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akprasad614/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0827-making-a-large-island](https://github.com/Akprasad614/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Akprasad614/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akprasad614/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Akprasad614/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Union-Find
@@ -124,6 +126,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Akprasad614/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0721-accounts-merge](https://github.com/Akprasad614/Leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Akprasad614/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
